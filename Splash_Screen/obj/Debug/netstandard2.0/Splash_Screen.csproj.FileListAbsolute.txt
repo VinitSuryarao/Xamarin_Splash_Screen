@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\bin\Debug\netstandard2.0\Splash_Screen.deps.json
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\bin\Debug\netstandard2.0\Splash_Screen.dll
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\bin\Debug\netstandard2.0\ref\Splash_Screen.dll
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\bin\Debug\netstandard2.0\Splash_Screen.pdb
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\Splash_Screen.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\Splash_Screen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\Splash_Screen.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\Splash_Screen.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\Splash_Screen.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\Splash_Screen.dll
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\ref\Splash_Screen.dll
+E:\Study\Code\Xamarin\Splash_Screen\Splash_Screen\obj\Debug\netstandard2.0\Splash_Screen.pdb
